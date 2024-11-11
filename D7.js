@@ -56,6 +56,12 @@ console.log(numberArray(numeri));
 */
 
 
+function nuoviNumeri (numeriArray) {
+  let somma = 0;
+  numeriArray.forEach;
+}
+
+const numeri2 =[0,1,2,3,4,5,6,7,8,9,10];
 
 
 /* ESERCIZIO 5 (reduce)
